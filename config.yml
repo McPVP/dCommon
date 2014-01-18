@@ -1,0 +1,48 @@
+   ############################
+   # Server Information Below #
+   #   Feel free to edit to   #
+   #     you're likeings      #
+   ############################
+clash:
+   dcommandOff: "&7%player has just disabled all commands"
+   dcommandOn: "&7%player has just enabled all commands"
+   dcMessage: "&cCommands are disabled at the moment"
+   BroadcastMessage: "&6[&4Broadcast&6]"
+   ChatMuted: "&7&lThe chat has been muted for all players only mods/admins can talk"
+   UnMuted: "&c&lThe chat has been unmuted you may now speak"
+   BcMessage: "none"
+   LeaveMessage: "&f%player has left the game"
+   JoinMessage: "&f%player has joined the game"
+   CommandsDisabledMessage: "&7Commands are disabled at the moment"
+   VoidError: "&c&lYou fell into a void! Please tell an admin to fix this"
+   AttemptNetherBypass: "&cYou are not allowed to be on top of the nether"
+   Muted: "&cYou can not talk while chat is muted."
+   PermissionMessage: "&7You do not have permission to do this command"
+   UnbanMessage: "&a%target was unbanned by %player"
+   FireColor: "green"
+   BanColor: "green"
+   KickColor: "green"
+   
+   ################################
+   #      Server Information      #
+   # All Server info will go here #
+   ################################
+   Website: "&9mcdreamz.com"
+   Email: "&9techpvp@yahoo.com"
+   Account: "&9%player"
+   ServerIp: "&9McDreamz.com"
+   DonationPage: "&9donate.mcdreamz.com"
+   
+   ############################
+   #     Integers/Numbers     #
+   # All numbers will go here #
+   #      Under here          #
+   ############################
+   Speedmode: 4
+   
+   #Tips:
+   # To announce a player do %player
+   # Set the value to "none" to make it blank
+   # Example: BcMessage: "none"
+   # When you do /bc {text} it wont show anything before it
+   # Since you made it say "nothing".
